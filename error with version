@@ -1,0 +1,5 @@
+my  current Dart SDK version is 2.1.0-dev.3.1.flutter-760a9690c2.
+but i got an error 
+Because music_player depends on fluttery >=0.0.2 which requires SDK version >=1.0.0 <2.0.0, version solving failed.
+pub get failed (1)
+please modify for 2.1.0 sdk version
